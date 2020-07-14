@@ -1,0 +1,25 @@
+# def game_over():
+#     win.fill(black)
+#     game_over_font = font.render("Press start to play again", True, white)
+#     win.blit(game_over_font, (800 // 2 - 150, 600 // 2 - 20))
+#     screen = pygame.display.set_mode((800, 600))
+#
+#     ball.reset()
+#     paddle1.reset()
+#     paddle2.reset()
+#     paddle1.points = 0
+#     paddle2.points = 0
+#
+#     pygame.display.update()
+
+#Part 1: https://www.youtube.com/watch?time_continue=1465&v=zFBQJ9bU5kQ&feature=emb_logo
+#Part 2: https://www.youtube.com/watch?v=eS5G5b3Ruvc
+#Part 3: https://www.youtube.com/watch?v=ub_xd4T47P0
+#Part 4: https://www.youtube.com/watch?v=xf4CqLy7Si0
+
+#other tuts:
+#https://pythonprogramming.net/pygame-start-menu-tutorial/
+#https://pythonprogramming.net/making-interactive-pygame-buttons/
+
+# pause = False
+# vec = pygame.math.Vector2
